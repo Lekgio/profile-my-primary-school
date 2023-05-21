@@ -12,7 +12,7 @@ People wonder why I write in 3 languages. I'm taking a French class, but I know 
 
 This is my school's logo:
 
-![alt text](/img/DTH.png "Title")
+![alt text](/img/DTH.png "Dinh Tien Hoang Primary School")
 
 ## Français
 Salut, c’est une école de mon profile ༼ つ ◕_◕ ༽つ
@@ -27,7 +27,7 @@ Je vis et étudie actuellement à Hai Phong, Vietnam.
 
 Voici le logo de mon école :
 
-![alt text](/img/DTH.png "Title")
+![alt text](/img/DTH.png "L’école primaire Dinh Tien Hoang")
 
 ## Tiếng Việt
 Xin chào, đây là profile của trường tôi ༼ つ ◕_◕ ༽つ
@@ -42,4 +42,4 @@ Mọi người thắc mắc tại sao tôi lại viết được 3 ngôn ngữ. 
 
 Đây là logo của trường tôi:
 
-![alt text](/img/DTH.png "Title")
+![alt text](/img/DTH.png "Trường Tiểu học Đinh Tiêng Hoàng")
