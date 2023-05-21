@@ -1,2 +1,45 @@
 # profile-school
+## English 
 Hi, this is a my profile school ༼ つ ◕_◕ ༽つ
+
+I currently live and study in Hai Phong, Vietnam.
+
+The school I am attending is Dinh Tien Hoang Primary School.
+
+It's senior this year so I wanted to create my profile school.
+
+People wonder why I write in 3 languages. I'm taking a French class, but I know a bit about English from programming.
+
+This is my school's logo:
+
+![alt text](/img/DTH.png "Title")
+
+## Français
+Salut, c’est une école de mon profile ༼ つ ◕_◕ ༽つ
+
+L’école que je fréquente est l’école primaire Dinh Tien Hoang.
+
+C’est senior cette année donc j’ai voulu créer mon profile école.
+
+Les gens se demandent pourquoi j’écris en 3 langues. Je prends un cours de français, mais je connais un peu l’anglais grâce à la programmation.
+
+Je vis et étudie actuellement à Hai Phong, Vietnam.
+
+Voici le logo de mon école :
+
+![alt text](/img/DTH.png "Title")
+
+## Tiếng Việt
+Xin chào, đây là profile của trường tôi ༼ つ ◕_◕ ༽つ
+
+Tôi hiện tại sinh sống và học tập tại Hải Phòng, Việt Nam.
+
+Ngôi trường tôi đang học là Trường Tiểu học Đinh Tiêng Hoàng.
+
+Năm nay là năm cuối nên tôi mới tạo ra profile của trường.
+
+Mọi người thắc mắc tại sao tôi lại viết được 3 ngôn ngữ. Tôi đang học lớp Pháp, nhưng tôi có biết chút về Tiếng Anh nhờ việc lập trình.
+
+Đây là logo của trường tôi:
+
+![alt text](/img/DTH.png "Title")
