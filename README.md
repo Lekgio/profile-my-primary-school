@@ -14,20 +14,26 @@ This is my school's logo:
 
 ![alt text](/img/DTH.png "Dinh Tien Hoang Primary School")
 
+And here's a preview of my school's profile:
+![alt text](/img/preview.png "Preview")
+
 ## Français
 Salut, c’est une école de mon profile ༼ つ ◕_◕ ༽つ
+
+Je vis et étudie actuellement à Hai Phong, Vietnam.
 
 L’école que je fréquente est l’école primaire Dinh Tien Hoang.
 
 C’est senior cette année donc j’ai voulu créer mon profile école.
 
-Les gens se demandent pourquoi j’écris en 3 langues. Je prends un cours de français, mais je connais un peu l’anglais grâce à la programmation.
-
-Je vis et étudie actuellement à Hai Phong, Vietnam.
+Les gens se demandent pourquoi j’écris en 3 langues. Je travaille dans une français classe, mais je connais un peu l’anglais grâce à la programmation.
 
 Voici le logo de mon école :
 
 ![alt text](/img/DTH.png "L’école primaire Dinh Tien Hoang")
+
+Et voici un aperçu du profil de mon école:
+![alt text](/img/preview.png "Aperçu")
 
 ## Tiếng Việt
 Xin chào, đây là profile của trường tôi ༼ つ ◕_◕ ༽つ
@@ -43,3 +49,6 @@ Mọi người thắc mắc tại sao tôi lại viết được 3 ngôn ngữ. 
 Đây là logo của trường tôi:
 
 ![alt text](/img/DTH.png "Trường Tiểu học Đinh Tiêng Hoàng")
+
+Và đây là preview của cái profile của trường tôi:
+![alt text](/img/preview.png "Preview")
