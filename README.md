@@ -15,7 +15,9 @@ This is my school's logo:
 ![alt text](/img/DTH.png "Dinh Tien Hoang Primary School")
 
 And here's a preview of my school's profile:
-![alt text](/img/preview.png "Preview")
+![alt text](/img/preview update.png "Preview")
+
+By the time I revised and committed this, I was already out of school.
 
 ## Français
 Salut, c’est une école de mon profile ༼ つ ◕_◕ ༽つ
@@ -33,7 +35,9 @@ Voici le logo de mon école :
 ![alt text](/img/DTH.png "L’école primaire Dinh Tien Hoang")
 
 Et voici un aperçu du profile de mon école:
-![alt text](/img/preview.png "Aperçu")
+![alt text](/img/preview update.png "Aperçu")
+
+Au moment où j’ai révisé et engagé cela, j’étais déjà sorti de l’école.
 
 ## Tiếng Việt
 Xin chào, đây là profile của trường tôi ༼ つ ◕_◕ ༽つ
@@ -51,4 +55,6 @@ Mọi người thắc mắc tại sao tôi lại viết được 3 ngôn ngữ. 
 ![alt text](/img/DTH.png "Trường Tiểu học Đinh Tiêng Hoàng")
 
 Và đây là preview của cái profile của trường tôi:
-![alt text](/img/preview.png "Preview")
+![alt text](/img/preview update.png "Preview")
+
+thời điểm tôi sửa lại và commit lại cái này, thì tôi đã ra trường rồi.
