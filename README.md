@@ -32,7 +32,7 @@ Voici le logo de mon école :
 
 ![alt text](/img/DTH.png "L’école primaire Dinh Tien Hoang")
 
-Et voici un aperçu du profil de mon école:
+Et voici un aperçu du profile de mon école:
 ![alt text](/img/preview.png "Aperçu")
 
 ## Tiếng Việt
